@@ -37,6 +37,8 @@ chmod -R 777 /home/nero/share
 Run:
 ```bash
 python3 server.py
+```
+```bash
 python3 html_server.py
 ```
 
